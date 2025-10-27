@@ -1,0 +1,5 @@
+{
+  "name": "Satellite Alignment Monitoring Dashboard",
+  "description": "A real-time dashboard for monitoring and controlling satellite station alignment, signal strength, and environmental conditions, designed to integrate with a Firebase Realtime Database for data synchronization.",
+  "requestFramePermissions": []
+}
